@@ -1,9 +1,18 @@
 ---
 type: Safety
 title: Battery Swap Standard Operating Procedure (BSS-600)
-description: Standard Operating Procedure for safe autonomous robotic battery swap operations using BSS-600 stations with 48V Solid-State Lithium Battery Packs
-tags: [safety, battery-swap, sop, bss-600, thermal-management, procedure, protocols]
-timestamp: 2026-09-28T10:54:31.126Z
+description: >-
+  Standard Operating Procedure for safe autonomous robotic battery swap
+  operations using BSS-600 stations with 48V Solid-State Lithium Battery Packs
+tags:
+  - safety
+  - battery-swap
+  - sop
+  - bss-600
+  - thermal-management
+  - procedure
+  - protocols
+timestamp: '2026-09-28T10:55:04.498Z'
 ---
 # Battery Swap Standard Operating Procedure (BSS-600)
 
@@ -265,3 +274,7 @@ All swap events are automatically recorded in the **Station Audit Database** wit
 ---
 
 **END OF DOCUMENT — SOP-BSS-600-001 REV 1.0**
+
+## Frontmatter
+
+---
