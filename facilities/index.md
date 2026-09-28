@@ -3,7 +3,7 @@ type: CategoryIndex
 category: Facilities
 title: Facilities Domain Operational Map
 description: Local category index for facilities domain assets.
-timestamp: 2026-09-28T10:59:53.779Z
+timestamp: 2026-09-28T11:00:53.377Z
 ---
 # Facilities Domain Operational Map
 
