@@ -90,3 +90,4 @@
 - [2026-09-28T10:38:21.300Z] READ [solid-state-lithium-pack-48v] - Deep nested content queried autonomously by agent.
 - [2026-09-28T10:52:46.982Z] READ [safety/index] - Deep nested content queried autonomously by agent.
 - [2026-09-28T10:52:55.169Z] READ [safety/protocols/ballistic-parachute-failsafe] - Deep nested content queried autonomously by agent.
+- [2026-09-28T10:54:33.783Z] REGISTERED [Battery Swap Standard Operating Procedure (BSS-600)](./safety/battery-swap-sop.md) - Namespace: safety
