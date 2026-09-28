@@ -83,3 +83,4 @@
 - [2026-08-30T02:03:11.501Z] REGISTERED [New Operational Knowledge Node](./facilities/new-operational-node.md) - Namespace: facilities
 - [2026-08-30T02:03:39.722Z] DECOMMISSIONED [new-operational-node].md from subfolders.
 - [2026-08-30T05:58:15.009Z] DECOMMISSIONED [test-concept].md from subfolders.
+- [2026-09-28T05:35:12.087Z] DECOMMISSIONED [facilities-index].md from subfolders.
