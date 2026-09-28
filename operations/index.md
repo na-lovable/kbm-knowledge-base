@@ -3,7 +3,7 @@ type: CategoryIndex
 category: Operations
 title: Operations Domain Operational Map
 description: Local category index for operations domain assets.
-timestamp: 2026-09-28T03:52:55.210Z
+timestamp: 2026-09-28T05:35:24.893Z
 ---
 # Operations Domain Operational Map
 
