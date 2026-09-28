@@ -3,7 +3,7 @@ type: CategoryIndex
 category: Power
 title: Power Domain Operational Map
 description: Local category index for power domain assets.
-timestamp: 2026-09-28T11:12:06.228Z
+timestamp: 2026-09-28T11:12:16.777Z
 ---
 # Power Domain Operational Map
 
