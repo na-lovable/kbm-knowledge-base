@@ -3,7 +3,7 @@ type: CategoryIndex
 category: Safety
 title: Safety Domain Operational Map
 description: Local category index for safety domain assets.
-timestamp: 2026-09-28T10:54:46.448Z
+timestamp: 2026-09-28T10:55:20.987Z
 ---
 # Safety Domain Operational Map
 
