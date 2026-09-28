@@ -3,7 +3,7 @@ type: CategoryIndex
 category: Avionics
 title: Avionics Domain Operational Map
 description: Local category index for avionics domain assets.
-timestamp: 2026-09-28T11:07:17.673Z
+timestamp: 2026-09-28T11:09:18.921Z
 ---
 # Avionics Domain Operational Map
 
