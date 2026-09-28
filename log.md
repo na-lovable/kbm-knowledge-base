@@ -108,3 +108,4 @@
 - [2026-09-28T11:09:06.545Z] DECOMMISSIONED [battery-swap-sop].md from subfolders.
 - [2026-09-28T11:09:49.761Z] REGISTERED [Battery Swap Standard Operating Procedure (BSS-600)](./safety/safety-protocols-battery-swap-sop.md) - Namespace: safety
 - [2026-09-28T11:11:00.292Z] DECOMMISSIONED [safety-protocols-battery-swap-sop].md from subfolders.
+- [2026-09-28T11:11:52.542Z] REGISTERED [Battery Swap Standard Operating Procedure (BSS-600)](./safety/protocols-battery-swap-sop.md) - Namespace: safety
