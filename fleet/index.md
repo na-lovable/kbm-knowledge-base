@@ -3,7 +3,7 @@ type: CategoryIndex
 category: Fleet
 title: Fleet Domain Operational Map
 description: Local category index for fleet domain assets.
-timestamp: 2026-09-28T11:09:18.921Z
+timestamp: 2026-09-28T11:09:25.260Z
 ---
 # Fleet Domain Operational Map
 
