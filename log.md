@@ -111,3 +111,4 @@
 - [2026-09-28T11:11:52.542Z] REGISTERED [Battery Swap Standard Operating Procedure (BSS-600)](./safety/protocols-battery-swap-sop.md) - Namespace: safety
 - [2026-09-29T00:12:11.408Z] READ [safety/protocols-battery-swap-sop] - Deep nested content queried autonomously by agent.
 - [2026-09-29T00:13:03.244Z] REGISTERED [Battery Swap Standard Operating Procedure (BSS-600)](./safety/safety-protocols-protocols-battery-swap-sop.md) - Namespace: safety
+- [2026-09-29T00:13:13.309Z] DECOMMISSIONED [protocols-battery-swap-sop].md from subfolders.
