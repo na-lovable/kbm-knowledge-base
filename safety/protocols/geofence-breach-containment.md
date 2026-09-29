@@ -10,7 +10,7 @@ tags:
   - containment
   - emergency
   - failsafe
-timestamp: '2026-09-29T00:26:28.602Z'
+timestamp: '2026-09-29T00:26:38.277Z'
 ---
 # Dynamic Geofence Breach Containment Protocol
 
@@ -63,3 +63,11 @@ flowchart TD
     SoftGeo -->|Excursion > 10m| HardGeo
     HardGeo -->|Containment Action| Unauthorized
 ```
+
+## ## 2. Progressive Escalation Stages
+
+| Stage | Trigger Condition | Automated Action | Latency |
+| :--- | :--- | :--- | :--- |
+| **Stage 1: Soft Warning** | Lateral drift > 3.0 m from airway center | Corrective vector torque command issued by [Quantum Flight Management Computer V3](../../avionics/flight-control/quantum-flight-computer-v3.md) | < 25 ms |
+| **Stage 2: Active Containment** | Aircraft crosses Soft Boundary | Immediate kinetic braking, transition to fixed GPS hover, broadcast UTM squawk alert | < 100 ms |
+| **Stage 3: Hard Breach Termination** | Aircraft penetrates Hard Boundary (>10m excursion) | Immediate rotor motor kill and deployment of [Pyrotechnic Ballistic Parachute Recovery Failsafe](./ballistic-parachute-failsafe.md) | < 350 ms |
