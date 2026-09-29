@@ -1,9 +1,16 @@
 ---
 type: Safety
 title: Dynamic Geofence Breach Containment Protocol
-description: Automated 3-stage emergency protocol triggered upon corridor deviation or temporary flight restriction (TFR) popups.
-tags: [safety, geofence, containment, emergency, failsafe]
-timestamp: 2026-08-20T10:00:00.000Z
+description: >-
+  Automated 3-stage emergency protocol triggered upon corridor deviation or
+  temporary flight restriction (TFR) popups.
+tags:
+  - safety
+  - geofence
+  - containment
+  - emergency
+  - failsafe
+timestamp: '2026-09-29T00:26:28.602Z'
 ---
 # Dynamic Geofence Breach Containment Protocol
 
@@ -42,3 +49,17 @@ flowchart TD
 This containment protocol actively governs operations across the entire airway infrastructure mapped in [BVLOS Low-Altitude Corridor Navigation Procedure](../../operations/flight-corridors/bvlos-corridor-nav-procedure.md).
 
 All breach telemetry is archived synchronously for audit compliance under [FAA Part 108 BVLOS Regulatory Compliance Framework](../regulations/faa-part-108-bvlos-compliance.md).
+
+## ## 1. Multi-Tiered Geofence Boundary Layers
+
+```mermaid
+flowchart TD
+    Nominal["Nominal 4D Flight Corridor (±5m Tolerance)"]
+    SoftGeo["Soft Geofence Boundary (Active Braking & Hover)"]
+    HardGeo["Hard Geofence Boundary (Motor Kill & Parachute)"]
+    Unauthorized["Unauthorized Airspace / Buffer"]
+
+    Nominal -->|Drift > 3m| SoftGeo
+    SoftGeo -->|Excursion > 10m| HardGeo
+    HardGeo -->|Containment Action| Unauthorized
+```
