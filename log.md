@@ -123,3 +123,4 @@
 - [2026-09-29T00:27:53.830Z] READ [safety/safety-protocols-geofence-breach-containment] - Deep nested content queried autonomously by agent.
 - [2026-09-29T00:27:57.847Z] DECOMMISSIONED [safety-protocols-geofence-breach-containment].md from subfolders.
 - [2026-09-30T11:10:25.528Z] DECOMMISSIONED [bengaluru-cargo-vertiport].md from subfolders.
+- [2026-09-30T11:16:12.646Z] READ [fleet/heavy-lift/rotorwing-v200-hybrid] - Deep nested content queried autonomously by agent.
