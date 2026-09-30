@@ -128,3 +128,4 @@
 - [2026-09-30T11:16:30.255Z] READ [fleet/urban-courier/swiftpack-x4-delivery-uav] - Deep nested content queried autonomously by agent.
 - [2026-09-30T11:16:32.658Z] READ [operations/flight-corridors/bvlos-corridor-nav-procedure] - Deep nested content queried autonomously by agent.
 - [2026-09-30T11:16:35.683Z] READ [operations/flight-corridors/weather-divert-routing-matrix] - Deep nested content queried autonomously by agent.
+- [2026-09-30T11:16:56.154Z] READ [facilities/charging/automated-battery-swap-station] - Deep nested content queried autonomously by agent.
