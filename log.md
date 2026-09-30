@@ -126,3 +126,4 @@
 - [2026-09-30T11:16:12.646Z] READ [fleet/heavy-lift/rotorwing-v200-hybrid] - Deep nested content queried autonomously by agent.
 - [2026-09-30T11:16:25.915Z] READ [facilities/hubs/skyport-central-fulfillment-hub] - Deep nested content queried autonomously by agent.
 - [2026-09-30T11:16:30.255Z] READ [fleet/urban-courier/swiftpack-x4-delivery-uav] - Deep nested content queried autonomously by agent.
+- [2026-09-30T11:16:32.658Z] READ [operations/flight-corridors/bvlos-corridor-nav-procedure] - Deep nested content queried autonomously by agent.
